@@ -1,0 +1,9 @@
+# Cargo creates target folder
+/target
+# Kinoko creates build folder
+/build
+
+# Emacs stuff that I copy pasted from the internet
+*~
+\#*\#
+.\#*
